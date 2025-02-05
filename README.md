@@ -22,4 +22,4 @@ Em resumo, este trabalho ressaltou a importância da análise exploratória, pr�
 
 - Zendesk - Formatação de texto com Markdown
 
-As fontes utilizadas neste trabalho forneceram informações valiosas sobre os conjuntos de dados analisados e a formatação de texto com Markdown. Recomenda-se a consulta desses recursos para obter mais detalhes e aprofundamento nos tópicos abordados.
+As fontes utilizadas neste trabalho forneceram informações relevantes sobre os conjuntos de dados analisados e a formatação de texto com Markdown. Recomenda-se a consulta desses recursos para obter mais detalhes e aprofundamento nos tópicos abordados.
